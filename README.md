@@ -1,6 +1,6 @@
 ##### **Please note**: Download the repository as a zipped folder, create a private repository, and upload the content to it. This way, you can collaborate with your teammates effectively.
 
-## 2501PTDS_Classification_Project
+## 2501PTDS_Classification_Project_Team1
 
 # Analysing News Articles Dataset
 
@@ -133,7 +133,7 @@ Congratulations! You've now officially deployed your first web application!
   
 - Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
-#### ### Live App
+## Live App
 You can open the Streamlit app here: [Open Streamlit App](https://project-classification-app-rziaypgkrnebd3npvkrmx9.streamlit.app/)
 
 
