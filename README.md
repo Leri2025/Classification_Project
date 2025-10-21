@@ -133,8 +133,10 @@ Congratulations! You've now officially deployed your first web application!
   
 - Please note: If it's your first time deploying it will redirect you to set up an account first. Please follow the instructions.
 
-## Live App
-You can open the Streamlit app here: [Open Streamlit App](https://project-classification-app-rziaypgkrnebd3npvkrmx9.streamlit.app/)
+## Streamlit App
+
+You can view and interact with the live app here:(https://project-classification-app-v2-zeweimomhgngoz2drdz6hw.streamlit.app/)
+
 
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
